@@ -120,13 +120,13 @@ streamlit run app.py
 Add screenshots in /images folder:
 
 ### Live Weather UI
-![Dashboard](images/ui_dashboard.png)
+![Dashboard](images/home_ui.png)
 
 ### Forecast Graph
 ![Forecast](images/forecast_graph.png)
 
 ### Risk Gauge Chart
-![Chart](images/risk_gauge.png)
+![Chart](images/insights_gauge.png)
 
 
 ---
